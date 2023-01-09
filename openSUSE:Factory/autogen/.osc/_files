@@ -1,0 +1,12 @@
+<directory name="autogen" rev="53" vrev="7" srcmd5="7acf074dd35f803c7f566f08dcdc65c9">
+  <entry name="autogen-5.18.16.tar.xz" md5="27c28df902a9fdb2b64f008a0a49fd05" size="1046276" mtime="1539619378" />
+  <entry name="autogen-avoid-GCC-code-analysis-bug.patch" md5="4ddadb4f8456688688d287db272975a9" size="3506" mtime="1650396629" />
+  <entry name="autogen-build_ldpath.patch" md5="20fccfe7d3c95287e68ad3400a0f4510" size="818" mtime="1539676317" />
+  <entry name="autogen-catch-race-error.patch" md5="b62566af6d8a235101a95703bd120051" size="1059" mtime="1539676318" />
+  <entry name="autogen.changes" md5="dc2031140b7fc4f6b62d663e3501867a" size="24344" mtime="1650396214" />
+  <entry name="autogen.spec" md5="163f1b83be6e21021b2c282c7b9076bd" size="4978" mtime="1650396214" />
+  <entry name="gcc9-fix-wrestrict.patch" md5="c4d98a8ae62815ca4c35e717389ae195" size="1643" mtime="1553502784" />
+  <entry name="guile-version.patch" md5="0f838af7074f683cbe4676132fa9f4f8" size="1484" mtime="1584976685" />
+  <entry name="installable-programs.patch" md5="8321608fff486263c5a7b75cf2da251f" size="3575" mtime="1539676319" />
+  <entry name="sprintf-overflow.patch" md5="bc9ccaecf37b01f10259e6def06b0ce9" size="1001" mtime="1539678605" />
+</directory>
